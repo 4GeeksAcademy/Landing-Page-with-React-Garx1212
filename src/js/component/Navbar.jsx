@@ -23,15 +23,15 @@ function Navbar (){
                     Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-light" href="#">
+                <a className="nav-link text-white-50" href="#">
                     Features</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-light" href="#">
+                <a className="nav-link text-white-50" href="#">
                     Pricing</a>
               </li>
               <li className="nav-item">
-                <a href="#" className="nav-link text-light">
+                <a href="#" className="nav-link text-white-50">
                     Contact
                 </a>
               </li>
